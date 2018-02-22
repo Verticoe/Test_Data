@@ -3,7 +3,7 @@ The R Code generates six data frames () with four variables each, depicting two 
 For the ease of use, all data frames are further combined to one data frame (AllClusters). The data of AllClusters (seed(1)) is contained in the AllClusters.csv. 
 
 __Description of the variables__
- Class: Describes the belonging of the data (x,y & z) to one of six datasets. 
- x: X-Coordinate
- y: Y-Coordinate
- z: Describes the belonging of the data point to a certain cluster. 
+1. Class: Describes the belonging of the data (x,y & z) to one of six datasets. 
+2. x: X-Coordinate
+3. y: Y-Coordinate
+4. z: Describes the belonging of the data point to a certain cluster. 
